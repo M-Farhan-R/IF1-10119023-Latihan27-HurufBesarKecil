@@ -12,7 +12,7 @@ package if1.pkg10119023.latihan27.hurufbesarkecil;
  * NAMA              : Muhammad Farhan R <farhan.10119023@mahasiswa.unikom.ac.id>
  * KELAS             : IF1
  * NIM               : 10119023
- * Deskripsi Program :
+ * Deskripsi Program : Program mengubah huruf menjadi Uppercase semua atau Lowercase semua
  *
  */
 import java.util.Scanner;
